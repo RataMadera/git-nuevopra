@@ -1,2 +1,3 @@
 # git-nuevopra
-PRObando git proyecto de prurba nada fuera de lo normal
+PRObando git proyecto de prueba  nada fuera de lo normal
+
